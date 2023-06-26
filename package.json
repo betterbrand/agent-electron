@@ -1,0 +1,27 @@
+{
+  "name": "agent-install",
+  "version": "0.0.1",
+  "description": "AI Agents Powered by Prompt Rank",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betterbrand/agent-install-js.git"
+  },
+  "keywords": [
+    "AI",
+    "Agent"
+  ],
+  "author": "Betterbrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betterbrand/agent-install-js/issues"
+  },
+  "homepage": "https://github.com/betterbrand/agent-install-js#readme",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
